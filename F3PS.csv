@@ -21,7 +21,7 @@ date_day_after_general_election,4,Date - Day after General Election,4,Date - Day
 20_a_operating,19,20(a) Operating,17,20(a) Operating,15,20(a) Operating
 20_b_fundraising,20,20(b) Fundraising,18,20(b) Fundraising,16,20(b) Fundraising
 20_c_legal_and_accounting,21,20(c) Legal and Accounting,19,20(c) Legal and Accounting,17,20(c) Legal and Accounting
-20_d_total_offsets_to_operating_expenditures,22,20(d) Total Offsets to Operating Expenditures,20,20(d) Total Offsets to Operating Expenditures,18,20(d) Total Offsets to Operating Expenditures
+20_d_total_offset_to_operating_expenditures,22,20(d) Total Offsets to Operating Expenditures,20,20(d) Total Offsets to Operating Expenditures,18,20(d) Total Offsets to Operating Expenditures
 21_other_receipts,23,21. Other Receipts,21,21. Other Receipts,19,21. Other Receipts
 22_total_receipts,24,22. Total Receipts,22,22. Total Receipts,20,22. Total Receipts
 23_operating_expenditures,25,23. Operating Expenditures,23,23. Operating Expenditures,21,23. Operating Expenditures

@@ -7,7 +7,7 @@ date_day_after_general_election,4,Date - Day after General Election,35,Date - Da
 6b_total_contribution_refunds,6,(6b) Total Contribution Refunds,4,(6b) Total Contribution Refunds
 6c_net_contributions,7,(6c) Net Contributions,5,(6c) Net Contributions
 7a_total_operating_expenditures,8,(7a) Total Operating Expenditures,6,(7a) Total Operating Expenditures
-7b_total_offsets_to_operating_expenditures,9,(7b) Total Offsets to Operating Expenditures,7,(7b) Total Offsets to Operating Expenditures
+7b_total_offset_to_operating_expenditures,9,(7b) Total Offsets to Operating Expenditures,7,(7b) Total Offsets to Operating Expenditures
 7c_net_operating_expenditures,10,(7c) NET Operating Expenditures.,8,(7c) NET Operating Expenditures.
 11_a_i_individuals_itemized,11,11(a i.) Individuals Itemized,9,11(a.i) Individuals Itemized
 11_a_ii_individuals_unitemized,12,11(a.ii) Individuals Unitemized,10,11(a.ii) Individuals Unitemized

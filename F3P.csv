@@ -135,7 +135,7 @@ col_b_total_loans,132,19(c) Total Loans,128,19(c) Total Loans,122,19(c) Total Lo
 col_b_operating,133,20(a) Operating,129,20(a) Operating,123,20(a) Operating,123,20(a) Operating
 col_b_fundraising,134,20(b) Fundraising,130,20(b) Fundraising,124,20(b) Fundraising,124,20(b) Fundraising
 col_b_legal_and_accounting,135,20(c) Legal and Accounting,131,20(c) Legal and Accounting,125,20(c) Legal and Accounting,125,20(c) Legal and Accounting
-col_b_total_offsets_to_operating_expenditures,136,20(d) Total Offsets to Operating Expenditures,132,20(d) Total Offsets to Operating Expenditures,126,20(d) Total Offsets to Operating Expenditures,126,20(d) Total Offsets to Operating Expenditures
+col_b_total_offset_to_operating_expenditures,136,20(d) Total Offsets to Operating Expenditures,132,20(d) Total Offsets to Operating Expenditures,126,20(d) Total Offsets to Operating Expenditures,126,20(d) Total Offsets to Operating Expenditures
 col_b_other_receipts,137,21. Other Receipts,133,21. Other Receipts,127,21. Other Receipts,127,21. Other Receipts
 col_b_total_receipts,138,22. Total Receipts,134,22. Total Receipts,128,22. Total Receipts,128,22. Total Receipts
 col_b_operating_expenditures,139,23. Operating Expenditures,135,23. Operating Expenditures,129,23. Operating Expenditures,129,23. Operating Expenditures
