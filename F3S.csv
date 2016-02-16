@@ -12,7 +12,7 @@ date_day_after_general_election,4,Date - Day after General Election,35,Date - Da
 11_a_i_individuals_itemized,11,11(a i.) Individuals Itemized,9,11(a.i) Individuals Itemized
 11_a_ii_individuals_unitemized,12,11(a.ii) Individuals Unitemized,10,11(a.ii) Individuals Unitemized
 11_a_iii_individuals_total,13,11(a.iii) Individuals Total,11,11(a.iii) Individuals Total
-11_b_political_party_committees,14,11(b) Political Party Committees,12,11(b) Political Party Committees
+11_b_political_party_contributions,14,11(b) Political Party Committees,12,11(b) Political Party Committees
 11_c_all_other_political_committees_pacs,15,11(c) All Other Political Committees (PACS),13,11(c) All Other Political Committees (PACS)
 11_d_the_candidate,16,11(d) The Candidate,14,11(d) The Candidate
 11_e_total_contributions,17,11(e) Total Contributions,15,11(e) Total Contributions
