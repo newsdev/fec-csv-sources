@@ -10,7 +10,7 @@ state,8,STATE,7,STATE,7,STATE
 zip,9,ZIP,8,ZIP,8,ZIP
 report_code,10,REPORT CODE,11,RPTCODE,11,RPTCODE
 election_code,11,ELECTION CODE  {was RPTPGI},12,RPTPGI,12,RPTPGI
-date_of_election,12,DATE OF ELECTION,13,DATE (Of Election),13,DATE (Of Election)
+election_date,12,DATE OF ELECTION,13,DATE (Of Election),13,DATE (Of Election)
 state_of_election,13,STATE OF ELECTION,14,STATE (Of Election),14,STATE (Of Election)
 coverage_from_date,14,COVERAGE FROM DATE,15,DATE (Coverage From),15,DATE (Coverage From)
 coverage_through_date,15,COVERAGE THROUGH DATE,16,DATE (Coverage To),16,DATE (Coverage To)
