@@ -46,7 +46,7 @@ col_a_debts_to_summary,31,9. DEBTS TO ( Totals from SCH C and/or D),38,9. DEBTS 
 col_a_debts_by_summary,32,10. DEBTS BY (Totals from SCH C and/or D),39,10. DEBTS BY (Totals from SCH C and/or D),30,10. DEBTS BY (Totals from SCH C and/or D),30,10. DEBTS BY (Totals from SCH C and/or D)
 col_a_individuals_itemized,33,11(a i.) Individuals Itemized,40,11(a i.) Individuals Itemized,31,11(a i.) Individuals Itemized,31,11(a i.) Individuals Itemized
 col_a_individuals_unitemized,34,11(a.ii) Individuals Unitemized,41,11(a.ii) Individuals Unitemized,32,11(a.ii) Individuals Unitemized,32,11(a.ii) Individuals Unitemized
-col_a_total_individual_contributions,35,11(a.iii) Individual Contribution Total,42,11(a.iii) Individual Contribution Total,33,11(a.iii) Individual Contribution Total,33,11(a.iii) Individual Contribution Total
+col_a_individual_contribution_total,35,11(a.iii) Individual Contribution Total,42,11(a.iii) Individual Contribution Total,33,11(a.iii) Individual Contribution Total,33,11(a.iii) Individual Contribution Total
 col_a_political_party_contributions,36,11(b) Political Party Committees,43,11(b) Political Party Committees,34,11(b) Political Party Committees,34,11(b) Political Party Committees
 col_a_pac_contributions,37,11(c) Other Political Committees,44,11(c) Other Political Committees,35,11(c) Other Political Committees,35,11(c) Other Political Committees
 col_a_candidate_contributions,38,11(d) The Candidate,45,11(d) The Candidate,36,11(d) The Candidate,36,11(d) The Candidate
